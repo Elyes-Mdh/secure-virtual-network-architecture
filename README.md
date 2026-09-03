@@ -37,12 +37,12 @@ The project aims to:
 
 
 ## 🏗️ Architecture
+
 <br>
 <br>
-
-
 
 <img width="1356" height="1160" alt="NEW NEXT SETP" src="https://github.com/user-attachments/assets/645e82ef-2b60-4bac-bd8b-25e7a6bc2fb5" />
+
 <br>
 <br>
 
