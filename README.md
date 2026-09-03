@@ -37,7 +37,8 @@ The project aims to:
 
 
 ## 🏗️ Architecture
-
+<br>
+<br>
 
 
 
@@ -61,7 +62,8 @@ The project aims to:
 
 
 ## 📸 Project Screenshots
-
+<br>
+<br>
 
 <img width="1478" height="605" alt="Capture d&#39;écran 2026-01-27 095114" src="https://github.com/user-attachments/assets/21442846-0d93-4ad9-89c3-4ffe2bdf68eb" />
 
