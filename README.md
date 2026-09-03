@@ -1,4 +1,4 @@
-# secure-virtual-network-architecture
+🔐 # secure-virtual-network-architecture
 
 ## 🎯 Objective
 
@@ -34,7 +34,11 @@ The project aims to:
 
 
 
+
+
 🏗️ Architecture
+
+
 
 
 <img width="1356" height="1160" alt="NEW NEXT SETP" src="https://github.com/user-attachments/assets/645e82ef-2b60-4bac-bd8b-25e7a6bc2fb5" />
@@ -60,10 +64,18 @@ The project aims to:
 <img width="1478" height="605" alt="Capture d&#39;écran 2026-01-27 095114" src="https://github.com/user-attachments/assets/21442846-0d93-4ad9-89c3-4ffe2bdf68eb" />
 
 
+
+
 <img width="787" height="515" alt="Capture d&#39;écran 2026-01-27 082132" src="https://github.com/user-attachments/assets/f67cf0f6-9751-471d-ac43-fd9a5f28737f" />
 
 
+
+
+
 <img width="1215" height="590" alt="Capture d&#39;écran 2026-09-03 092108" src="https://github.com/user-attachments/assets/9e051ca2-fc0d-4579-95a5-40a280bdc538" />
+
+
+
 
 
 
