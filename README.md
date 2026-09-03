@@ -1,4 +1,4 @@
-🔐 # secure-virtual-network-architecture
+### 🔐 secure-virtual-network-architecture
 
 ## 🎯 Objective
 
@@ -14,7 +14,7 @@ The project aims to:
 * 🔹 **Secure web applications** using a Web Application Firewall (WAF).
 * 🔹 **Monitor and detect suspicious activity** through centralized security monitoring.
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 🖥️ Hyper-V — Virtualization
 
@@ -36,7 +36,7 @@ The project aims to:
 
 
 
-🏗️ Architecture
+## 🏗️ Architecture
 
 
 
@@ -58,7 +58,7 @@ The project aims to:
 
 
 
-📸 Project Screenshots
+## 📸 Project Screenshots
 
 
 <img width="1478" height="605" alt="Capture d&#39;écran 2026-01-27 095114" src="https://github.com/user-attachments/assets/21442846-0d93-4ad9-89c3-4ffe2bdf68eb" />
