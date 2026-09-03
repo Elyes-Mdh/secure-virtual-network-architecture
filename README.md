@@ -71,9 +71,7 @@ The project aims to:
 <br>
 <br>
 
-
-<img width="787" height="515" alt="Capture d&#39;écran 2026-01-27 082132" src="https://github.com/user-attachments/assets/f67cf0f6-9751-471d-ac43-fd9a5f28737f" />
-
+<img width="1559" height="1009" alt="test" src="https://github.com/user-attachments/assets/8a34cbb5-9a75-4f44-bff6-c195119e3815" />
 
 
 <br>
